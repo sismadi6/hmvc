@@ -1,0 +1,13 @@
+Catatanku
+=========
+21/10/2021 jam 11.35 PM
+*passing dari views home ke about masih not found DONE
+
+22/10/2021
+Add admin fasilities, just add file and not yet execute DONE
+
+23/10/2021
+validate error for login
+
+26/10/2021
+views--->controller handle by routes in app\config\routes, routes default selalu dibaca..harus dibelokan ke officer
